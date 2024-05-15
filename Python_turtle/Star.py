@@ -1,3 +1,5 @@
+# turtle program to print a star
+
 import turtle 
 star = turtle.Turtle() 
   
